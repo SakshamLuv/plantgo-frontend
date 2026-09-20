@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-20",
+  "version": "2026-09-21",
   "input_size": 224,
   "input_range": "0-255 float RGB",
   "num_classes": 40,
