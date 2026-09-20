@@ -1,0 +1,688 @@
+{
+  "version": "2026-09-20",
+  "input_size": 224,
+  "input_range": "0-255 float RGB",
+  "num_classes": 40,
+  "classes": [
+    {
+      "index": 0,
+      "folder": "Ageratina_adenophora",
+      "scientific_name": "Ageratina adenophora",
+      "common_name": "Banmara",
+      "category": "invasive",
+      "habitat": "Roadsides, landslide scars and abandoned fields, 1000-2500 m",
+      "safety": "Invasive. Toxic to horses and livestock if grazed.",
+      "note": "Its Nepali name literally means 'forest killer' - it crowds out native undergrowth.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Sprawling weed with purple-tinged stems",
+        "Clusters of small fluffy white flower heads",
+        "Triangular toothed leaves in opposite pairs",
+        "Forms dense thickets on disturbed slopes"
+      ]
+    },
+    {
+      "index": 1,
+      "folder": "Amaranthus_viridis",
+      "scientific_name": "Amaranthus viridis",
+      "common_name": "Latte",
+      "category": "vegetable",
+      "habitat": "Kitchen gardens, field margins and waste ground",
+      "safety": "Edible. A common leafy vegetable.",
+      "note": "Cooked as a saag; the tiny seeds are edible too.",
+      "hazard": "none",
+      "visual_features": [
+        "Upright green herb with grooved stems",
+        "Oval leaves with a notched tip",
+        "Long thin drooping green flower spikes",
+        "No spines anywhere on the plant"
+      ]
+    },
+    {
+      "index": 2,
+      "folder": "Antirrhinum_majus",
+      "scientific_name": "Antirrhinum majus",
+      "common_name": "Snapdragon",
+      "category": "flower",
+      "habitat": "Planted in winter flower beds and pots",
+      "safety": "Not toxic.",
+      "note": "Children squeeze the flower sides to make the 'dragon jaw' snap open.",
+      "hazard": "none",
+      "visual_features": [
+        "Tall spike crowded with pouched flowers",
+        "Each bloom opens like a hinged mouth when squeezed",
+        "Narrow lance-shaped dark green leaves",
+        "Flowers in pink, yellow, white or crimson"
+      ]
+    },
+    {
+      "index": 3,
+      "folder": "Argemone_mexicana",
+      "scientific_name": "Argemone mexicana",
+      "common_name": "Thakal",
+      "category": "toxic",
+      "habitat": "Dry waste ground and riverbeds in the lowlands",
+      "safety": "Toxic. Seeds adulterate mustard oil and cause epidemic dropsy.",
+      "note": "Every part is armed with spines - a plant that tells you not to touch it.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Prickly blue-green leaves with white veins",
+        "Bright yellow poppy-like flowers",
+        "Spiny seed capsule",
+        "Stems ooze yellow sap when broken"
+      ]
+    },
+    {
+      "index": 4,
+      "folder": "Artocarpus_heterophyllus",
+      "scientific_name": "Artocarpus heterophyllus",
+      "common_name": "Rukh Katahar",
+      "category": "fruit_tree",
+      "habitat": "Warm lowland gardens and terai villages",
+      "safety": "Edible fruit.",
+      "note": "Bears the largest fruit of any tree in the world, straight off the trunk.",
+      "hazard": "none",
+      "visual_features": [
+        "Enormous knobbly green fruit on the trunk itself",
+        "Thick glossy dark leaves",
+        "Milky white latex when cut",
+        "Fruit can be longer than a forearm"
+      ]
+    },
+    {
+      "index": 5,
+      "folder": "Azadirachta_indica",
+      "scientific_name": "Azadirachta indica",
+      "common_name": "Neem",
+      "category": "medicinal",
+      "habitat": "Lowland roadsides, temples and courtyards",
+      "safety": "Medicinal; seeds not for internal use by children.",
+      "note": "Twigs are still used as toothbrushes across South Asia.",
+      "hazard": "caution",
+      "visual_features": [
+        "Feather-like leaves of many curved toothed leaflets",
+        "Sprays of small white fragrant flowers",
+        "Small olive-like yellow fruit",
+        "Bitter smell when a leaf is crushed"
+      ]
+    },
+    {
+      "index": 6,
+      "folder": "Bacopa_monnieri",
+      "scientific_name": "Bacopa monnieri",
+      "common_name": "Brahmi",
+      "category": "medicinal",
+      "habitat": "Pond edges, paddy bunds and marshy ground",
+      "safety": "Edible and medicinal.",
+      "note": "Long used in Ayurveda as a memory tonic.",
+      "hazard": "none",
+      "visual_features": [
+        "Creeping mat-forming herb in wet mud",
+        "Small thick spoon-shaped leaves",
+        "Tiny pale blue or white four-petalled flowers",
+        "Succulent stems that root at each node"
+      ]
+    },
+    {
+      "index": 7,
+      "folder": "Bidens_pilosa",
+      "scientific_name": "Bidens pilosa",
+      "common_name": "Kalo Kuro",
+      "category": "invasive",
+      "habitat": "Paths, gardens and field edges everywhere",
+      "safety": "Young shoots edible when cooked.",
+      "note": "The barbed seeds hitch a ride on anyone who walks past.",
+      "hazard": "none",
+      "visual_features": [
+        "Small white-and-yellow daisy flowers",
+        "Black needle-like seeds with barbed tips",
+        "Toothed leaves in groups of three",
+        "Seeds cling stubbornly to clothing"
+      ]
+    },
+    {
+      "index": 8,
+      "folder": "Butea_monosperma",
+      "scientific_name": "Butea monosperma",
+      "common_name": "Palash",
+      "category": "flowering_tree",
+      "habitat": "Dry lowland forest and terai slopes",
+      "safety": "Not toxic.",
+      "note": "Called 'flame of the forest' - it flowers when the tree is bare.",
+      "hazard": "none",
+      "visual_features": [
+        "Leafless branches ablaze with orange-red flowers",
+        "Curved claw-shaped blooms in dense clusters",
+        "Three broad leathery leaflets per leaf",
+        "Flat brown pods holding one seed"
+      ]
+    },
+    {
+      "index": 9,
+      "folder": "Calotropis_gigantea",
+      "scientific_name": "Calotropis gigantea",
+      "common_name": "Aank",
+      "category": "toxic",
+      "habitat": "Dry waste ground, roadsides in the terai",
+      "safety": "Toxic. The latex is a severe eye and skin irritant.",
+      "note": "Offered to Shiva despite its poisonous milk.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Thick pale grey-green leaves in opposite pairs",
+        "Waxy star-shaped purple-white flowers",
+        "Copious milky latex from any break",
+        "Inflated pods bursting into silky floss"
+      ]
+    },
+    {
+      "index": 10,
+      "folder": "Cannabis_sativa",
+      "scientific_name": "Cannabis sativa",
+      "common_name": "Bhang",
+      "category": "regulated",
+      "habitat": "Grows wild on disturbed ground across the hills",
+      "safety": "Regulated plant. Cultivation is controlled by law in Nepal.",
+      "note": "Growing wild across the hills; legally restricted, so the app only informs.",
+      "hazard": "caution",
+      "visual_features": [
+        "Palm-shaped leaves with 5 to 9 toothed fingers",
+        "Tall grooved stems",
+        "Strong distinctive scent",
+        "Small green flower clusters where leaves meet stem"
+      ]
+    },
+    {
+      "index": 11,
+      "folder": "Carica_papaya",
+      "scientific_name": "Carica papaya",
+      "common_name": "Mewa (Papaya)",
+      "category": "fruit_tree",
+      "habitat": "Warm gardens and courtyards",
+      "safety": "Edible fruit; unripe latex irritates skin.",
+      "note": "Not really a tree - a giant herb with a hollow stem.",
+      "hazard": "caution",
+      "visual_features": [
+        "Single hollow unbranched trunk",
+        "Huge deeply lobed umbrella-like leaves on long stalks",
+        "Green to orange fruit clustered at the top of the stem",
+        "Leaf scars ring the trunk"
+      ]
+    },
+    {
+      "index": 12,
+      "folder": "Catharanthus_roseus",
+      "scientific_name": "Catharanthus roseus",
+      "common_name": "Sadabahar",
+      "category": "flower",
+      "habitat": "Pots, borders and roadside plantings",
+      "safety": "Toxic if eaten.",
+      "note": "The source of two real chemotherapy drugs.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Five flat petals in pink or white with a darker eye",
+        "Glossy dark green oval leaves",
+        "Flowers almost all year round",
+        "Neat low bushy shape"
+      ]
+    },
+    {
+      "index": 13,
+      "folder": "Centella_asiatica",
+      "scientific_name": "Centella asiatica",
+      "common_name": "Ghodtapre",
+      "category": "medicinal",
+      "habitat": "Damp shady ground, drains and lawn edges",
+      "safety": "Edible and medicinal.",
+      "note": "Its Nepali name means 'horse hoof', after the leaf shape.",
+      "hazard": "none",
+      "visual_features": [
+        "Round kidney-shaped leaves with scalloped edges",
+        "Creeping runners that root along the ground",
+        "Leaves held up on slender stalks",
+        "Tiny pinkish flowers hidden at the base"
+      ]
+    },
+    {
+      "index": 14,
+      "folder": "Chromolaena_odorata",
+      "scientific_name": "Chromolaena odorata",
+      "common_name": "Siam Weed",
+      "category": "invasive",
+      "habitat": "Terai forest edges, fallow land and plantations",
+      "safety": "Invasive. Foliage is toxic to cattle.",
+      "note": "Among the most aggressive invaders of Nepal's lowland forests.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Scrambling shrub with brittle stems",
+        "Triangular leaves with three clear veins",
+        "Dirty-white to pale lilac tubular flower heads",
+        "Crushed leaves smell strongly herbal"
+      ]
+    },
+    {
+      "index": 15,
+      "folder": "Colocasia_esculenta",
+      "scientific_name": "Colocasia esculenta",
+      "common_name": "Karkalo (Taro)",
+      "category": "vegetable",
+      "habitat": "Wet ditches, terrace edges and kitchen gardens",
+      "safety": "Must be cooked. Raw parts contain irritating crystals.",
+      "note": "Leaves, stems and corm are all eaten - after thorough cooking.",
+      "hazard": "caution",
+      "visual_features": [
+        "Very large heart-shaped leaves held like shields",
+        "Leaf stalk joins the blade well inside the notch",
+        "Water beads and rolls off the leaf surface",
+        "Thick underground corm"
+      ]
+    },
+    {
+      "index": 16,
+      "folder": "Coriandrum_sativum",
+      "scientific_name": "Coriandrum sativum",
+      "common_name": "Dhaniya",
+      "category": "vegetable",
+      "habitat": "Kitchen gardens and winter vegetable plots",
+      "safety": "Edible.",
+      "note": "The same plant gives both the fresh herb and the dried spice.",
+      "hazard": "none",
+      "visual_features": [
+        "Lower leaves broad and fan-lobed, upper ones thread-fine",
+        "Flat-topped clusters of tiny white-pink flowers",
+        "Round ribbed seeds",
+        "Unmistakable fresh scent when brushed"
+      ]
+    },
+    {
+      "index": 17,
+      "folder": "Cynodon_dactylon",
+      "scientific_name": "Cynodon dactylon",
+      "common_name": "Dubo",
+      "category": "sacred_grass",
+      "habitat": "Lawns, courtyards, field bunds - almost everywhere",
+      "safety": "Not toxic.",
+      "note": "Sacred grass used in Hindu ritual and never cut for worship.",
+      "hazard": "none",
+      "visual_features": [
+        "Low creeping grass forming tight mats",
+        "Runners spreading flat along the soil",
+        "Flower spikes like fingers spreading from one point",
+        "Short grey-green blades"
+      ]
+    },
+    {
+      "index": 18,
+      "folder": "Datura_stramonium",
+      "scientific_name": "Datura stramonium",
+      "common_name": "Dhaturo",
+      "category": "toxic",
+      "habitat": "Waste ground, rubbish heaps and roadsides",
+      "safety": "Highly toxic. Seeds are dangerous; poisonings occur every year.",
+      "note": "Offered to Shiva on Shivaratri, yet every part is poisonous.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Large white or violet trumpet-shaped flowers",
+        "Coarsely jagged leaves with an unpleasant smell",
+        "Egg-shaped spiny seed capsule",
+        "Purple tinge on the stems"
+      ]
+    },
+    {
+      "index": 19,
+      "folder": "Delonix_regia",
+      "scientific_name": "Delonix regia",
+      "common_name": "Gulmohar",
+      "category": "flowering_tree",
+      "habitat": "Avenue tree in warm towns and the terai",
+      "safety": "Not toxic.",
+      "note": "Its long hard pods rattle like sticks in the wind.",
+      "hazard": "none",
+      "visual_features": [
+        "Wide flat canopy covered in scarlet-orange flowers",
+        "One petal larger and streaked white",
+        "Fine twice-divided fern-like leaves",
+        "Long dark woody pods hanging down"
+      ]
+    },
+    {
+      "index": 20,
+      "folder": "Duranta_erecta",
+      "scientific_name": "Duranta erecta",
+      "common_name": "Duranta",
+      "category": "shrub",
+      "habitat": "Garden hedges and boundary plantings",
+      "safety": "Berries are toxic to children and pets.",
+      "note": "Flowers and ripe berries appear on the bush at the same time.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Arching shrub often clipped as a hedge",
+        "Sprays of small pale violet flowers with a white edge",
+        "Hanging bunches of glossy orange-yellow berries",
+        "Small oval leaves, sometimes golden"
+      ]
+    },
+    {
+      "index": 21,
+      "folder": "Euphorbia_pulcherrima",
+      "scientific_name": "Euphorbia pulcherrima",
+      "common_name": "Lalupate (Poinsettia)",
+      "category": "flower",
+      "habitat": "Hill gardens and hedges, colouring up in winter",
+      "safety": "Sap irritates skin and eyes.",
+      "note": "The red 'petals' are actually leaves - the real flowers are the little cups.",
+      "hazard": "caution",
+      "visual_features": [
+        "Blazing red leaf-like bracts around a tiny centre",
+        "True flowers are small yellow-green cups",
+        "Dark lobed leaves below the red crown",
+        "Milky sap from broken stems"
+      ]
+    },
+    {
+      "index": 22,
+      "folder": "Ficus_benghalensis",
+      "scientific_name": "Ficus benghalensis",
+      "common_name": "Bar (Banyan)",
+      "category": "sacred_tree",
+      "habitat": "Village chautaras, temple grounds and crossroads",
+      "safety": "Not toxic.",
+      "note": "Often paired with a Peepal on the same chautara resting platform.",
+      "hazard": "none",
+      "visual_features": [
+        "Massive spreading crown on many trunk-like props",
+        "Aerial roots dropping down to the soil",
+        "Thick leathery oval leaves with blunt tips",
+        "Small round red figs sitting close to the twig"
+      ]
+    },
+    {
+      "index": 23,
+      "folder": "Ficus_religiosa",
+      "scientific_name": "Ficus religiosa",
+      "common_name": "Peepal",
+      "category": "sacred_tree",
+      "habitat": "Temples, chautaras and courtyards throughout the valley",
+      "safety": "Not toxic.",
+      "note": "The Buddha is said to have reached enlightenment beneath this tree.",
+      "hazard": "none",
+      "visual_features": [
+        "Heart-shaped leaf drawn out into a long narrow tail",
+        "Leaves tremble constantly in the slightest breeze",
+        "Smooth grey bark",
+        "Small purple figs in pairs"
+      ]
+    },
+    {
+      "index": 24,
+      "folder": "Grevillea_robusta",
+      "scientific_name": "Grevillea robusta",
+      "common_name": "Silky Oak",
+      "category": "flowering_tree",
+      "habitat": "Planted along hill roads and on terrace edges",
+      "safety": "Sawdust and sap can irritate skin.",
+      "note": "An Australian tree now shading half the roads in the mid-hills.",
+      "hazard": "caution",
+      "visual_features": [
+        "Tall straight tree with fern-like divided leaves",
+        "Leaf undersides silvery and silky",
+        "One-sided golden-orange toothbrush flower combs",
+        "Narrow dark seed pods"
+      ]
+    },
+    {
+      "index": 25,
+      "folder": "Hibiscus_rosa-sinensis",
+      "scientific_name": "Hibiscus rosa-sinensis",
+      "common_name": "Ghantiphul",
+      "category": "flower",
+      "habitat": "Garden shrub and temple offering plant",
+      "safety": "Not toxic; petals are edible.",
+      "note": "Named ghantiphul, 'bell flower', for its hanging shape.",
+      "hazard": "none",
+      "visual_features": [
+        "Wide trumpet flower with five overlapping petals",
+        "Long central column of stamens sticking well out",
+        "Glossy toothed dark green leaves",
+        "Blooms usually last a single day"
+      ]
+    },
+    {
+      "index": 26,
+      "folder": "Ipomoea_carnea",
+      "scientific_name": "Ipomoea carnea",
+      "common_name": "Besharam",
+      "category": "invasive",
+      "habitat": "Canal banks, ditches and wet waste ground",
+      "safety": "Invasive and toxic to livestock.",
+      "note": "Besharam means 'shameless' - it grows back however often it is cut.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Thicket-forming shrub with hollow soft stems",
+        "Pale pink funnel flowers with a deeper throat",
+        "Heart-shaped leaves tapering to a point",
+        "Milky sap"
+      ]
+    },
+    {
+      "index": 27,
+      "folder": "Jacaranda_mimosifolia",
+      "scientific_name": "Jacaranda mimosifolia",
+      "common_name": "Jacaranda",
+      "category": "flowering_tree",
+      "habitat": "Avenue and campus tree in Kathmandu",
+      "safety": "Not toxic.",
+      "note": "Flowers before the leaves return, turning whole streets blue.",
+      "hazard": "none",
+      "visual_features": [
+        "Cloud of violet-blue trumpet flowers on bare branches",
+        "Very fine twice-divided feathery leaves",
+        "Flat round woody seed capsules",
+        "Carpet of blue petals on the ground below"
+      ]
+    },
+    {
+      "index": 28,
+      "folder": "Lantana_camara",
+      "scientific_name": "Lantana camara",
+      "common_name": "Banmara (Lantana)",
+      "category": "invasive",
+      "habitat": "Roadsides, forest edges and grazing land",
+      "safety": "Invasive. Unripe berries and leaves are toxic.",
+      "note": "One flower head can show three colours at once as the blooms age.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Tight flower heads that change colour from yellow to orange to red",
+        "Rough sandpapery toothed leaves",
+        "Square prickly stems",
+        "Clusters of shiny green-to-black berries"
+      ]
+    },
+    {
+      "index": 29,
+      "folder": "Mangifera_indica",
+      "scientific_name": "Mangifera indica",
+      "common_name": "Aanp (Mango)",
+      "category": "fruit_tree",
+      "habitat": "Village orchards and courtyards in the lowlands",
+      "safety": "Edible fruit; sap can irritate skin.",
+      "note": "Mango leaves are strung over doorways at festivals.",
+      "hazard": "caution",
+      "visual_features": [
+        "Dense dark evergreen crown",
+        "Long narrow leaves, reddish when new",
+        "Sprays of tiny pinkish flowers above the foliage",
+        "Heavy green-to-yellow fruit on long stalks"
+      ]
+    },
+    {
+      "index": 30,
+      "folder": "Mimosa_pudica",
+      "scientific_name": "Mimosa pudica",
+      "common_name": "Lajjawati",
+      "category": "herb",
+      "habitat": "Lawns, paths and damp waste ground",
+      "safety": "Mildly toxic if eaten; stems have prickles.",
+      "note": "Lajjawati means 'the shy one' - it closes when you touch it.",
+      "hazard": "caution",
+      "visual_features": [
+        "Leaflets fold shut instantly at a touch",
+        "Fine feathery leaves divided into many small pairs",
+        "Fluffy pink globe-shaped flower heads",
+        "Thin prickly sprawling stems"
+      ]
+    },
+    {
+      "index": 31,
+      "folder": "Morus_alba",
+      "scientific_name": "Morus alba",
+      "common_name": "Kimbu (Mulberry)",
+      "category": "fruit_tree",
+      "habitat": "Field boundaries and home gardens in the hills",
+      "safety": "Edible fruit; unripe fruit upsets the stomach.",
+      "note": "The only leaf silkworms will eat.",
+      "hazard": "caution",
+      "visual_features": [
+        "Leaves variably lobed, some like mittens",
+        "Sweet white to purple clustered fruit",
+        "Toothed leaf edges",
+        "Milky sap in young shoots"
+      ]
+    },
+    {
+      "index": 32,
+      "folder": "Musa_acuminata",
+      "scientific_name": "Musa acuminata",
+      "common_name": "Kera (Banana)",
+      "category": "fruit_plant",
+      "habitat": "Warm gardens, terraces and courtyards",
+      "safety": "Edible.",
+      "note": "Not a tree - the 'trunk' is just rolled leaf bases.",
+      "hazard": "none",
+      "visual_features": [
+        "Very large paddle-shaped leaves, often wind-split",
+        "Trunk made of tightly rolled leaf sheaths",
+        "Hanging flower spike with a purple bract",
+        "Fruit in upward-curving hands"
+      ]
+    },
+    {
+      "index": 33,
+      "folder": "Nelumbo_nucifera",
+      "scientific_name": "Nelumbo nucifera",
+      "common_name": "Kamal (Lotus)",
+      "category": "aquatic",
+      "habitat": "Ponds and temple tanks",
+      "safety": "Edible seeds, stems and roots.",
+      "note": "Its leaves are so water-repellent that they never get wet.",
+      "hazard": "none",
+      "visual_features": [
+        "Round leaves held high above the water on stalks",
+        "Water rolls off the leaf in silver beads",
+        "Large pink or white flower standing clear of the surface",
+        "Flat-topped seed head like a shower rose"
+      ]
+    },
+    {
+      "index": 34,
+      "folder": "Nymphaea_nouchali",
+      "scientific_name": "Nymphaea nouchali",
+      "common_name": "Water Lily",
+      "category": "aquatic",
+      "habitat": "Still ponds and slow channels",
+      "safety": "Not toxic.",
+      "note": "Its leaves lie on the water while the lotus holds its leaves above it.",
+      "hazard": "none",
+      "visual_features": [
+        "Leaves floating flat on the water with a slit to the centre",
+        "Star-shaped blue-white flower resting at the surface",
+        "Many narrow pointed petals",
+        "Leaf edges slightly wavy"
+      ]
+    },
+    {
+      "index": 35,
+      "folder": "Parthenium_hysterophorus",
+      "scientific_name": "Parthenium hysterophorus",
+      "common_name": "Parthenium",
+      "category": "invasive",
+      "habitat": "Roadsides, construction sites and waste ground",
+      "safety": "Invasive. Causes dermatitis, asthma and hay fever.",
+      "note": "One of the worst weeds in the world for human allergies.",
+      "hazard": "caution",
+      "visual_features": [
+        "Deeply cut carrot-like pale green leaves",
+        "Many tiny cream-white five-cornered flower heads",
+        "Stiff ridged hairy stems",
+        "Forms dense stands on bare ground"
+      ]
+    },
+    {
+      "index": 36,
+      "folder": "Psidium_guajava",
+      "scientific_name": "Psidium guajava",
+      "common_name": "Amba (Guava)",
+      "category": "fruit_tree",
+      "habitat": "Home gardens and orchards",
+      "safety": "Edible.",
+      "note": "Peeling copper bark is the easiest way to spot it out of season.",
+      "hazard": "none",
+      "visual_features": [
+        "Smooth bark flaking in coppery patches",
+        "Stiff oval leaves with clearly sunken veins",
+        "White flowers with a puff of many stamens",
+        "Round green fruit with pink or white flesh"
+      ]
+    },
+    {
+      "index": 37,
+      "folder": "Ricinus_communis",
+      "scientific_name": "Ricinus communis",
+      "common_name": "Aandir",
+      "category": "toxic",
+      "habitat": "Waste ground, riverbanks and field edges",
+      "safety": "Highly toxic. A few chewed seeds can kill a child.",
+      "note": "Source of castor oil - yet the raw seed holds one of the deadliest plant poisons.",
+      "hazard": "toxic",
+      "visual_features": [
+        "Huge star-shaped leaves with 7 to 11 pointed lobes",
+        "Reddish hollow stems",
+        "Spiny reddish seed capsules in upright spikes",
+        "Glossy mottled brown seeds like beans"
+      ]
+    },
+    {
+      "index": 38,
+      "folder": "Tagetes_erecta",
+      "scientific_name": "Tagetes erecta",
+      "common_name": "Sayapatri (Marigold)",
+      "category": "flower",
+      "habitat": "Grown in gardens and fields for garlands",
+      "safety": "Not toxic.",
+      "note": "Strung into the malas worn at Tihar - Nepal's festival flower.",
+      "hazard": "none",
+      "visual_features": [
+        "Dense globe of ruffled orange or yellow petals",
+        "Strongly scented divided leaves with toothed leaflets",
+        "Swollen green cup holding the flower base",
+        "Upright bushy plant"
+      ]
+    },
+    {
+      "index": 39,
+      "folder": "Urtica_dioica",
+      "scientific_name": "Urtica dioica",
+      "common_name": "Sisnu",
+      "category": "medicinal",
+      "habitat": "Damp shady ground near hill settlements",
+      "safety": "Stings sharply on contact; safe and nutritious once cooked.",
+      "note": "A hill staple as soup - the sting vanishes the moment it is cooked.",
+      "hazard": "caution",
+      "visual_features": [
+        "Heart-shaped coarsely toothed leaves in opposite pairs",
+        "Stinging hairs on stems and leaves",
+        "Drooping strings of tiny green flowers",
+        "Square upright stems"
+      ]
+    }
+  ]
+}

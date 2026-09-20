@@ -44,6 +44,9 @@ dependencies:
   image: ^4.1.3
   path_provider: ^2.1.1
   
+  # On-device inference
+  tflite_flutter: ^0.11.0
+
   # Camera and scanning dependencies
   camera: ^0.10.5+5
   web_socket_channel: ^2.4.0
@@ -84,6 +87,10 @@ flutter:
     - assets/background/
     - assets/mascot/
     - assets/audio/  # Add audio assets folder
+    # labels.json is required; plant_model.tflite is added by the training run.
+    # Listing the directory means a missing .tflite is a runtime miss, not a
+    # build failure, so the app still runs on the cloud model alone.
+    - assets/models/
 
   fonts:
     - family: Poppins
