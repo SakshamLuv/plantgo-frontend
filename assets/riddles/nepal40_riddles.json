@@ -1,0 +1,786 @@
+{
+  "version": "2026-09-20",
+  "model": "phi-3-mini + plantgo LoRA",
+  "riddles": {
+    "Ageratina adenophora": [
+      [
+        "I sprawl with stems that hint at royal purple hue,",
+        "With tiny white blooms, my presence is true.",
+        "My leaves are shaped like triangles, a pair they are,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a land where the slopes are disturbed,",
+        "A plant with purple-tinged stems is turmoved.",
+        "With clusters of white and fluffy blooms,",
+        "What plant can be found, where the sun freely looms?"
+      ],
+      [
+        "In purple stems, I sprawl and grow,",
+        "With white blooms, my clusters show.",
+        "Opposite leaves form a row,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Amaranthus viridis": [
+      [
+        "In the garden, a green herb stands tall,",
+        "With grooved stems and leaves that do not fall.",
+        "Notched tips on oval leaves, it's quite a sight,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In the garden's embrace, I stand upright and tall,",
+        "My green arms reach out, with leaves not too small.",
+        "Spiky flowers droop like strings on a guitar,",
+        "Can you guess my name, where I am?"
+      ],
+      [
+        "I stand tall, a green herb so fine,",
+        "With oval leaves and a notched top sign.",
+        "My spikes are long, in drooping form they lay,",
+        "What plant am I, that's not prickly, I say?"
+      ]
+    ],
+    "Antirrhinum majus": [
+      [
+        "I stand tall with a spike that's crowded,",
+        "My mouths open wide, not for a crowd.",
+        "My leaves are lance-shaped, dark green, and hushed,",
+        "What am I, with colors that's never muzzled?"
+      ],
+      [
+        "I stand tall with a spike, where pouched flowers hide,",
+        "Hinged lips open wide, in the gardener's pride.",
+        "My leaves are slender, in dark green they hide,",
+        "What am I, with colors that coincis in stride?"
+      ],
+      [
+        "A towering spike with a hushed surprise,",
+        "Leaves lance-shaped, green in disguise,",
+        "Blooms that open when the squeeze applies,",
+        "What am I, that blooms in pink, yellow, white, or crimson's guise?"
+      ]
+    ],
+    "Argemone mexicana": [
+      [
+        "I stand with veins of snow,",
+        "My poppy blooms in sunlight's glow.",
+        "A spiny secret I hold,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a garden where the blue-green thorns hide,",
+        "With veins like white, they stand with pride.",
+        "Their flowers, like sunlit gold, bloom with cheer,",
+        "And where can this plant be found?"
+      ],
+      [
+        "What can be found with blue-green leaves and white veins,",
+        "Where poppy flowers bloom in the sun's bright beams?",
+        "Its seed capsule is spiny, and when you break my stem,",
+        "Can you guess what this plant is, and where it can be found?"
+      ]
+    ],
+    "Artocarpus heterophyllus": [
+      [
+        "In the forest where the green giants stand,",
+        "Bears a fruit on its trunk, not by chance.",
+        "With leaves so shiny and thick,",
+        "What plant makes this magical mix?"
+      ],
+      [
+        "In a forest deep and wide,",
+        "Knobbly fruit does hide.",
+        "Leaves shine, white sap flows,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In the garden where secrets dwell,",
+        "A giant's armor, green and swell,",
+        "White milk flows when the blade does tell,",
+        "What plant holds these tales, can you spell?"
+      ]
+    ],
+    "Azadirachta indica": [
+      [
+        "In a garden where fragrance fills the air,",
+        "Where tiny yellow fruits are rare,",
+        "Leaves with many a tooth, feathery and fair,",
+        "What plant am I, with a scent that's bitter and stale?"
+      ],
+      [
+        "\"I'm a plant with feather-like leaves,",
+        "In your garden, a fragrant flower I weave.",
+        "My fruit is small and olive-like,",
+        "What am I?"
+      ],
+      [
+        "I'm a plant with leaves like feathers in flight,",
+        "Flowers that smell like a fragrant white night.",
+        "My fruit is small and yellow, like a lemon's twin,",
+        "What am I, that's bitter when a leaf is in?"
+      ]
+    ],
+    "Bacopa monnieri": [
+      [
+        "In the marsh's embrace, it sprawls with grace,",
+        "With spoon-like leaves, it finds its place.",
+        "Where tiny flowers bloom with gentle face,",
+        "What is this plant that we can trace?"
+      ],
+      [
+        "In wet mud, a creeping herb does dwell,",
+        "With leaves like spoons, in stories they tell.",
+        "Flowers so small, with hues of blue and white,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a wet mud garden, it spreads,",
+        "Where leaves are thick and spoon-shaped.",
+        "Four-petalled blooms, pale in hue,",
+        "What plant hides in this verdant view?"
+      ]
+    ],
+    "Bidens pilosa": [
+      [
+        "In a garden where daisies bloom,",
+        "With needles that refuse to be pruned,",
+        "The leaves in threes, they stand,",
+        "What am I, that leaves cling to your hand?"
+      ],
+      [
+        "I'm a plant with a daisy's face,",
+        "My seeds are black with a barbed embrace.",
+        "My leaves are in groups of three,",
+        "What am I, can you see?"
+      ],
+      [
+        "In a garden where colors dance and play,",
+        "A tiny bloom holds flowers in a white and yellow array.",
+        "Black seeds with tips that dare to prick,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Butea monosperma": [
+      [
+        "In the garden where the sun kisses the ground,",
+        "Three leaflets rest, without a sound.",
+        "Beneath orange-red blooms, a treasure's found,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a forest where the sunlight dances,",
+        "Find where the leafless branches entrances,",
+        "With claw-shaped blooms in clusters,",
+        "What plant can be found?"
+      ],
+      [
+        "In the garden, a fiery sight,",
+        "Where the branches dance in the light.",
+        "Three leaves hug each stem's embrace,",
+        "What is this plant's place?"
+      ]
+    ],
+    "Calotropis gigantea": [
+      [
+        "I stand tall, with pairs of leaves in a row,",
+        "My flowers shine like stars, in a purple-white show.",
+        "When you break me, you'll find a milky flow,",
+        "What plant am I, with a silky show?"
+      ],
+      [
+        "I stand tall with a leafy crown,",
+        "My purple-white flowers shine like a gown.",
+        "Silk floss will burst from my pods,",
+        "What am I?"
+      ],
+      [
+        "Where can you find this plant?",
+        "With leaves in pairs, a waxy bloom's sight,",
+        "Milky latex flows from a slight bite,",
+        "In fluffy pods, where do you find it right?"
+      ]
+    ],
+    "Cannabis sativa": [
+      [
+        "I stand tall with fingers five to nine,",
+        "My grooved stem, in the sun, shines.",
+        "Where flowers bloom, a scent does bind,",
+        "Can you guess this plant, where peace you'll find?"
+      ],
+      [
+        "I stand tall with grooves that mark my skin,",
+        "In the forest, I'm often found thin.",
+        "Where my leaves meet, a small flower's a sight,",
+        "What am I, can you guess right?"
+      ],
+      [
+        "I stand tall with a grooved grace,",
+        "My fingers toothed, in a leafy space.",
+        "Where my blooms do cluster, small and green,",
+        "Can you guess the plant where you've been?"
+      ]
+    ],
+    "Carica papaya": [
+      [
+        "In the garden's heart, a single trunk stands tall,",
+        "With leaves like an umbrella, they do not fall.",
+        "Atop the stem, fruit clusters in orange and green,",
+        "Where can this plant be found?"
+      ],
+      [
+        "I stand tall with a hollow trunk,",
+        "My leaves like an umbrella's hunch.",
+        "Green fruit on top, in clusters they're seen,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In the garden, a mystery waits to be found,",
+        "A solitary trunk, hollow and round.",
+        "Umbrella leaves with lobes so wide,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Catharanthus roseus": [
+      [
+        "I bloom in pink or white, with a darker center in sight.",
+        "My leaves are glossy, dark, and green, in a shape that's neat and lean.",
+        "All year I'm in bloom, in the garden, I'm a boon.",
+        "What plant am I, that's always in bloom, in a low, bushy room?"
+      ],
+      [
+        "In gardens where the year's colors blend,",
+        "A plant stands with petals pink and white,",
+        "Its leaves a shade where the shadows bend,",
+        "What is this plant, a gardener's delight?"
+      ],
+      [
+        "I'm a plant with a flower that's ever lasting,",
+        "With dark-eyed petals, my colors are casting.",
+        "My leaves are oval, dark and glossy,",
+        "What am I, in this garden so hush?"
+      ]
+    ],
+    "Centella asiatica": [
+      [
+        "I creep along the earth, my roots a secret path.",
+        "With leaves in kidney shape, I stand like a quiet math.",
+        "Pink blooms conceal my face, at my base they softly rest.",
+        "What plant am I, in this enchanting quest?"
+      ],
+      [
+        "In the garden where the shadows play,",
+        "A plant with kidney-shaped leaves does sway.",
+        "With scalloped edges and runners that creep,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a garden where secrets lie,",
+        "Round leaves with scalloped edges hide.",
+        "Creeping runners, roots spread wide,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Chromolaena odorata": [
+      [
+        "In a garden where the herbal scent lingers,",
+        "A shrub with stems that easily quiver.",
+        "Leaves shaped like triangles, veins clear,",
+        "Where can this plant be found, can you tell?"
+      ],
+      [
+        "In a garden where the sun does gleam,",
+        "A shrub with stems, once it would seem,",
+        "Triangles of leaves, veined in threes,",
+        "Where can this plant be found with such ease?"
+      ],
+      [
+        "What plant can you find,",
+        "With leaves in a triangle, three veins are neatly aligned.",
+        "Its flowers are white as dirty, or lilac hued,",
+        "Can you guess my name, where the herbal smells are viewed?"
+      ]
+    ],
+    "Colocasia esculenta": [
+      [
+        "I stand tall with shields that curve,",
+        "Where the blade and stalk meet, they're sure.",
+        "Above, droplets dance and play,",
+        "What am I that grows in the underground's bay?"
+      ],
+      [
+        "In the garden where secrets dwell,",
+        "A plant with a heart that's quite swell.",
+        "Its shield-like leaves keep water at bay,",
+        "Where can this plant be found?"
+      ],
+      [
+        "I stand tall with shields of green,",
+        "In the notch, my stem is seen.",
+        "My underground corm, thick and vast,",
+        "What plant is this, and what's its past?"
+      ]
+    ],
+    "Coriandrum sativum": [
+      [
+        "I wear a crown of white and pink,",
+        "My leaves are a fan, my seeds a link.",
+        "The scent of freshness fills the air,",
+        "Can you guess what plant I am, if you dare?"
+      ],
+      [
+        "In my crown, tiny blooms rest, a palette soft and white,",
+        "Fan-like leaves below, in threads they're dressed,",
+        "Round and smooth, my seeds lie in wait,",
+        "What am I, with a scent so great?"
+      ],
+      [
+        "In a garden where the greenery thrives,",
+        "Broad fans and thread-thin leaves arrive.",
+        "Tiny blooms in clusters so round,",
+        "What plant is this, with seeds that are found?"
+      ]
+    ],
+    "Cynodon dactylon": [
+      [
+        "I spread low, I creep,",
+        "A mat of blades in my sleep.",
+        "My fingers spread wide and far,",
+        "Where can this plant be found?"
+      ],
+      [
+        "I spread my fingers wide, a carpet below,",
+        "My runners lie flat, where the cool winds blow.",
+        "Tall fingers reach for the sky,",
+        "What plant am I, that's not shy?"
+      ],
+      [
+        "In a garden where the green is tight,",
+        "Runners spread out, a silent sight.",
+        "Fingers of bloom, from one they rise,",
+        "What plant am I, with blades of disguise?"
+      ]
+    ],
+    "Datura stramonium": [
+      [
+        "In a garden where the air is thick and heavy,",
+        "A plant with trumpets, large and flowery,",
+        "Covers its stem with a purple hue,",
+        "Where can this plant be found?"
+      ],
+      [
+        "I wear a purple crown and sport a trumpet's grace,",
+        "My leaves are jagged, in the air, they can't find their place.",
+        "With a spiny seed, my flowers are quite the sight,",
+        "Where can this plant be found, hidden from plain sight?"
+      ],
+      [
+        "In a garden of mystery, find the bloom,",
+        "Where trumpet flowers and purple stems loom.",
+        "A spiny seed, and leaves that smell,",
+        "Can you spot the plant that fits this scene?"
+      ]
+    ],
+    "Delonix regia": [
+      [
+        "In a garden of red and orange blooms,",
+        "Where leaves are fern-like and twice divided,",
+        "Beneath the wide canopy's gloom,",
+        "What plant holds these features, hidden?"
+      ],
+      [
+        "Under the sun's embrace, a scarlet bloom dances,",
+        "With a petal white as moonlight, a rare chance.",
+        "Leaves fern-like, fine, divide,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a garden of reds and oranges wide,",
+        "A single petal of white does hide.",
+        "With fern-like leaves that are finely split,",
+        "What plant am I, with pods that are lit?"
+      ]
+    ],
+    "Duranta erecta": [
+      [
+        "In a hedge where secrets hide,",
+        "Flowers with a pale violet side,",
+        "Berries that hang and gleam,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In my arms, hedges are often clipped,",
+        "With pale violet blooms, a sight to glimpse.",
+        "I hang with berries, orange-yellow in hue,",
+        "What plant am I, that's often seen as a hedge or a bush, true?"
+      ],
+      [
+        "I stand tall, clipped and trimmed,",
+        "With pale violet blooms, a hedge's vim.",
+        "Glossy fruits hang like a festive band,",
+        "What am I, with leaves that may be grand?"
+      ]
+    ],
+    "Euphorbia pulcherrima": [
+      [
+        "In a garden of splendor, a red crown stands tall,",
+        "With cups of yellow-green, true flowers small.",
+        "Underneath, dark lobes hide in the shade,",
+        "What plant am I, with milky sap that's made?"
+      ],
+      [
+        "In the garden's heart, a red crown sits,",
+        "With tiny yellow cups, it's a sight to be kissed.",
+        "Below, dark lobes lay, a sight so bright,",
+        "What am I, with milky sap and red light?"
+      ],
+      [
+        "Beneath the red crown, where leaves loosely lie,",
+        "A yellow-green cup hides, under the sky.",
+        "In the milky sap, the secret's kept,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Ficus benghalensis": [
+      [
+        "In a forest wide, I stand with many a crown,",
+        "My roots hang low, where the ground is found.",
+        "Leaves like armor, blunt and firm,",
+        "What am I, that's the plant term?"
+      ],
+      [
+        "In a forest where giants dwell,",
+        "A crown spreads wide, a sight to tell.",
+        "Roots hang low from above,",
+        "Where can this plant be found?"
+      ],
+      [
+        "I'm a giant among trees, with a crown so wide,",
+        "My trunks are like pillars, where my branches hide.",
+        "Aerial roots below, where the soil is my friend,",
+        "What am I, that makes my heart pretend?"
+      ]
+    ],
+    "Ficus religiosa": [
+      [
+        "In the heart of a breeze, I stand tall and proud,",
+        "With a tail that's narrow and a leaf that's loud.",
+        "My bark, as smooth as glass, hides my secrets deep,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a forest where whispers dance,",
+        "A plant stands with a heart's glance.",
+        "Its leaves, a soft murmur, do quiver,",
+        "Beneath the sky, in pairs, what's the liver?"
+      ],
+      [
+        "In a forest where whispers glide,",
+        "A plant with a heart, where can it hide?",
+        "Grey bark, a tremble in the breeze,",
+        "Where are these plants, can you please?"
+      ]
+    ],
+    "Grevillea robusta": [
+      [
+        "I stand tall with leaves divided,",
+        "Silvery sheen, a sight so hidden.",
+        "Toothbrush flowers, a golden hue,",
+        "Where can this plant be found?"
+      ],
+      [
+        "A towering guardian with leaves like ferns,",
+        "Its silvered undersides, a sight that stems.",
+        "Golden-orange bristles bloom in one side,",
+        "Where can this plant be found?"
+      ],
+      [
+        "A tall guardian with ferny attire,",
+        "Beneath its leaves, a silken fire.",
+        "Golden blooms line its face,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Hibiscus rosa-sinensis": [
+      [
+        "In the garden, a bloom stands proud and tall,",
+        "With a trumpet that shines and five petals that fall.",
+        "Stamens extend with a length so grand,",
+        "What plant makes this sight so grand?"
+      ],
+      [
+        "I'm a bloom that's quick to fade,",
+        "With petals five, in a trumpet's shade.",
+        "A column tall, stamens proudly stand,",
+        "On what plant do these features grand?"
+      ],
+      [
+        "I'm a bloom that's rare and wide,",
+        "My petals five, in sunlight they hide.",
+        "Stamens long, they stand so proud,",
+        "What am I?"
+      ]
+    ],
+    "Ipomoea carnea": [
+      [
+        "I stand in a clump, my stems hollow and soft,",
+        "My heart-shaped leaves, in the wind, aloft.",
+        "Pale pink flowers with a deeper throat,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a thicket where the soft stems hollow,",
+        "Flowers pale pink with throats deeper,",
+        "Leaves heart-shaped, points to follow,",
+        "What plant can this be, hidden from the sleeper?"
+      ],
+      [
+        "I stand tall in a hollow embrace,",
+        "With funnel blooms and a pale pink face.",
+        "My heart-shaped leaves end in a point,",
+        "What plant could this be, without a joint?"
+      ]
+    ],
+    "Jacaranda mimosifolia": [
+      [
+        "I'm a blossom that dances in the sky,",
+        "Bare branches host my trumpets, so high.",
+        "Leaves like feathers, divided by two,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In bare branches, a cloud dances in the breeze,",
+        "With feathery leaves, the wind whispers to me.",
+        "Below, a blue carpet lies in wait,",
+        "What plant am I, with such a trait?"
+      ],
+      [
+        "I bloom with a cloud, in the sky so blue,",
+        "With trumpet flowers, my branches are few.",
+        "Feathery leaves, in the wind they dance,",
+        "What am I, with a blue carpet beneath?"
+      ]
+    ],
+    "Lantana camara": [
+      [
+        "In a garden where colors shift and sway,",
+        "A plant with sandpaper leaves holds the key.",
+        "Its berries dark as night, clusters in display,",
+        "What plant hides its treasure where the sunrays flee?"
+      ],
+      [
+        "I'm a plant with a colorful crown,",
+        "Leaves like sandpaper, with a touch so rough.",
+        "My stems are sharp, like a needle's point,",
+        "Where can this plant be found?"
+      ],
+      [
+        "I'm a plant with a secret to tell,",
+        "In tight flower heads, a colourful spell.",
+        "Rough leaves and prickly stems,",
+        "What am I?"
+      ]
+    ],
+    "Mangifera indica": [
+      [
+        "I stand tall with a crown so dark and dense,",
+        "My leaves are long and reddish, a fresh green defense.",
+        "Above my head, tiny pink blooms are sprayed,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a forest of green, where shadows dwell,",
+        "A tree stands tall, with stories to tell.",
+        "Leaves like ribbons, in shades of red,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a forest where shadows play,",
+        "An evergreen crown holds the day.",
+        "Leaves once red, now green they stay,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Mimosa pudica": [
+      [
+        "I'm a plant with a touch so light,",
+        "My leaves fold away, a curious sight.",
+        "Fine feathery pairs and pink globes in a dance,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a garden where whispers are heard,",
+        "A plant with prickly stems is stirred.",
+        "Its leaves, a feathered dance,",
+        "Where can this plant be found?"
+      ],
+      [
+        "Leaflets that fold at a touch,",
+        "Feathery leaves in pairs,",
+        "Pink globes in a hug,",
+        "What plant hugs the air?"
+      ]
+    ],
+    "Morus alba": [
+      [
+        "I wear a coat of leaves, some with fingers wide,",
+        "My fruits hang in clusters, a sweet or purple guide.",
+        "Young shoots ooze a milky white,",
+        "What am I, with a toothed leafy sight?"
+      ],
+      [
+        "In a garden where the leaves dance and play,",
+        "Where sweet fruits in clusters light up the day.",
+        "With edges like teeth and a sap that's milky white,",
+        "What plant hides in plain sight, a delightful sight?"
+      ],
+      [
+        "I'm a plant with leaves that mimic mittens' form,",
+        "In my clusters, sweet fruits are born.",
+        "With teeth that kiss each edge, and sap that's a milky stream,",
+        "What am I, that in gardens is a rare gem?"
+      ]
+    ],
+    "Musa acuminata": [
+      [
+        "In a tropical land where the winds are bold,",
+        "Lies a plant with leaves that break and fold.",
+        "A trunk of green, tightly rolled,",
+        "Where can this plant be found?"
+      ],
+      [
+        "Large leaves like paddles, often split by the wind,",
+        "A trunk that's not a trunk, but rolled leaves combined,",
+        "Purple bract hides the flower spike,",
+        "What plant holds these traits, in the park or the hike?"
+      ],
+      [
+        "I stand tall with leaves that sway,",
+        "A purple bract at the end of my way.",
+        "My trunk is made of rolled sheaths,",
+        "Where can this plant be found?"
+      ]
+    ],
+    "Nelumbo nucifera": [
+      [
+        "I stand tall with leaves round and proud,",
+        "Above the water, they're not bowed.",
+        "My petals are pink or white,",
+        "What am I, that's a sight?"
+      ],
+      [
+        "In water's embrace, it sits with grace,",
+        "Leaves like silver beads on stalks in place.",
+        "Above the waves, a bloom that's bold,",
+        "What plant holds these traits in its fold?"
+      ],
+      [
+        "I stand tall with leaves round and bright,",
+        "Above the water, I bask in light.",
+        "My petals bloom in hues so fair,",
+        "What am I, with shower's flair?"
+      ]
+    ],
+    "Parthenium hysterophorus": [
+      [
+        "In a land where the earth is bare and wild,",
+        "A plant with stems like a hairy child.",
+        "Pale green leaves, like carrots, are deep-cut,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In the land where the sun meets the sea,",
+        "Where tiny white flowers are the key,",
+        "Stands tall and stands proud,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a garden where the ground lies bare,",
+        "Five-pointed flowers bloom with a flair.",
+        "Hairy stems stand tall and stout,",
+        "What plant forms a standout clout?"
+      ]
+    ],
+    "Psidium guajava": [
+      [
+        "In coppery patches, the bark does flake,",
+        "Where sunken veins and oval leaves make a stake.",
+        "Flowers puff with many a stamen's grace,",
+        "What fruit is this, with pink or white in its place?"
+      ],
+      [
+        "I'm a plant with a flaky bark,",
+        "Oval leaves and puffy stamen's spark.",
+        "My fruit is round, with flesh that's pink or white,",
+        "Can you guess my name, in the morning light?"
+      ],
+      [
+        "In a forest where the leaves tell a story,",
+        "With veins hidden like secrets, so quiet and shy.",
+        "Where flowers bloom with a cloud of pollen dust,",
+        "What fruit lies beneath, what's the plant's name, can you trust?"
+      ]
+    ],
+    "Ricinus communis": [
+      [
+        "In a garden where secrets lie,",
+        "A plant with starry leaves, you'll spy.",
+        "With hollow stems that reddish glow,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a garden where the stars of greenery sprawl,",
+        "With pointed lobes seven to eleven, they stand tall.",
+        "Their stems hollow, with a reddish hue,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In a garden of mystery, where the stars align,",
+        "A plant with pointed leaves and stems that are fine.",
+        "Its seeds, like beans, are shiny and brown,",
+        "What am I?"
+      ]
+    ],
+    "Tagetes erecta": [
+      [
+        "In the garden's heart, a treasure lies,",
+        "With petals ruffled in the sun's warmth.",
+        "Leaves divided, with a scent that flies,",
+        "What plant am I, where do you find my worth?"
+      ],
+      [
+        "A bushy friend with a ruffled crown,",
+        "In a cup it sits, the color of sun.",
+        "Scented leaves, divided and toothed,",
+        "What plant am I, that's often found?"
+      ],
+      [
+        "I stand tall with a crown of petals,",
+        "My scent fills the air, no need for letters.",
+        "In my core, a cup does rest,",
+        "What am I, that's surely the best?"
+      ]
+    ],
+    "Urtica dioica": [
+      [
+        "In the garden, a peculiar sight you'll find,",
+        "With leaves in pairs, and a heart shape combined.",
+        "Stings you might if you touch, with care to abide,",
+        "Where can this plant be found?"
+      ],
+      [
+        "I stand tall with my square stems,",
+        "Leaves in pairs, a heart's dream.",
+        "Tiny strings hang with flowers so fine,",
+        "Where can this plant be found?"
+      ],
+      [
+        "In the garden, I stand tall and square,",
+        "My heart-shaped leaves in pairs appear.",
+        "Stinging hairs adorn my form,",
+        "Where can this plant be found?"
+      ]
+    ]
+  }
+}
